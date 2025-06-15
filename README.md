@@ -16,7 +16,7 @@
   技能組 📜
 </h2>
 
-<p font-size="40px">
+<p style="font-size: 500px;">
   dog
 </p>
 
