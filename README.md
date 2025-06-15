@@ -17,7 +17,7 @@
 </h2>
 
 
-<table align="center" width="100%">
+<table align="center" width="100vw">
   <tr>
     <th colspan="2">前端</th>
     <th colspan="2">後端</th>
