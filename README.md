@@ -14,3 +14,8 @@
 
 
 ### 技能組 📜
+- React
+- TypeScript
+- NextJS
+- TailwindCSS
+- Zustand
