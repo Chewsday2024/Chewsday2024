@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <th colspan="2"><h2>前端</h2></th>
-    <th colspan="2">後端</th>
+    <th colspan="2"><h2>後端</h2></th>
   </tr>
   
   <tr>
