@@ -17,7 +17,7 @@
 </h2>
 
 
-<table style="width: 100%; margin: auto;">
+<table align="center">
   <tr>
     <th colspan="2">前端</th>
     <th colspan="2">後端</th>
