@@ -58,8 +58,8 @@
   <tr>
     <td>Zustand</td>
     <td>⭐⭐⭐</td>
-    <td></td>
-    <td></td>
+    <td>Prisma</td>
+    <td>⭐</td>
   </tr>
 </table>
 
