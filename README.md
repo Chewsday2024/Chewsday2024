@@ -47,6 +47,20 @@
     <td>Mongoose</td>
     <td>⭐⭐</td>
   </tr>
+
+  <tr>
+    <td>JavaScript</td>
+    <td>⭐⭐⭐</td>
+    <td>NeonDB</td>
+    <td>⭐</td>
+  </tr>
+
+  <tr>
+    <td>Zustand</td>
+    <td>⭐⭐⭐</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 
