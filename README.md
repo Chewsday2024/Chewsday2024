@@ -3,6 +3,6 @@
 </div>
 
 
-<h1>
+<h1 align="center">
   各位好！我是 Chewsday！🐳
 </h1>
