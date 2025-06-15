@@ -71,6 +71,13 @@
     <td></td>
     <td></td>
   </tr>
+
+  <tr>
+    <td>Redux</td>
+    <td>⭐⭐⭐</td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 
