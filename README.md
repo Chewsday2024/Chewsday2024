@@ -16,13 +16,11 @@
   技能組 📜
 </h2>
 
-<p><strong style="font-size: 1.5em;">我的技能表</strong></p>
-
 
 <table align="center">
   <tr>
     <th colspan="2"><h3>前端</h3></th>
-    <th colspan="2"><h2>後端</h2></th>
+    <th colspan="2"><h3>後端</h3></th>
   </tr>
   
   <tr>
