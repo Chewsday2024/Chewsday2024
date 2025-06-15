@@ -19,33 +19,33 @@
 
 <table align="center">
   <tr>
-    <th >前端</th>
+    <th colspan="2">前端</th>
     <th colspan="2">後端</th>
   </tr>
   
   <tr>
-    <td>HTML</td>
-    <td>⭐⭐⭐⭐</td>
-    <td>Node.js</td>
-    <td>⭐⭐⭐</td>
-  </tr>
-  <tr>
     <td>React</td>
-    <td>⭐⭐⭐</td>
-    <td>Express</td>
-    <td>⭐⭐⭐</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>NodeJS</td>
+    <td>⭐</td>
   </tr>
   <tr>
-    <td>CSS</td>
-    <td>⭐⭐⭐⭐</td>
+    <td>TypeScript</td>
+    <td>⭐⭐⭐</td>
+    <td>ExpressJS</td>
+    <td>⭐⭐</td>
+  </tr>
+  <tr>
+    <td>NextJS</td>
+    <td>⭐⭐</td>
     <td>MongoDB</td>
     <td>⭐⭐</td>
   </tr>
   <tr>
-    <td>Tailwind</td>
-    <td>⭐⭐⭐</td>
+    <td>TailwindCSS</td>
+    <td>⭐⭐⭐⭐</td>
     <td>Mongoose</td>
-    <td>⭐⭐⭐</td>
+    <td>⭐⭐</td>
   </tr>
 </table>
 
