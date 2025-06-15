@@ -12,10 +12,16 @@
   喜歡遇到問題並頭痛的解決他！🔥
 </h2>
 
+<h2 align="center">
+  技能組 📜
+</h2>
 
-## 技能組 📜
-- React
-- TypeScript
-- NextJS
-- TailwindCSS
-- Zustand
+
+| 前端                   |        後端        |
+| React      | ⭐⭐⭐⭐ | NodeJS    | ⭐   |
+| TypeScript | ⭐⭐⭐   | ExpressJS | ⭐⭐ |
+| NextJS     | ⭐⭐      |          |        |
+| JavaScript | ⭐⭐⭐   |          |        |
+| Zustand    | ⭐⭐⭐   |         |         |
+
+
