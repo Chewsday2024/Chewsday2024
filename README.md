@@ -29,18 +29,21 @@
     <td>NodeJS</td>
     <td>⭐</td>
   </tr>
+  
   <tr>
     <td>TypeScript</td>
     <td>⭐⭐⭐</td>
     <td>ExpressJS</td>
     <td>⭐⭐</td>
   </tr>
+  
   <tr>
     <td>NextJS</td>
     <td>⭐⭐</td>
     <td>MongoDB</td>
     <td>⭐⭐</td>
   </tr>
+  
   <tr>
     <td>TailwindCSS</td>
     <td>⭐⭐⭐⭐</td>
@@ -60,6 +63,13 @@
     <td>⭐⭐⭐</td>
     <td>Prisma</td>
     <td>⭐</td>
+  </tr>
+
+  <tr>
+    <td>Bootstrap 5</td>
+    <td>⭐⭐⭐</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
