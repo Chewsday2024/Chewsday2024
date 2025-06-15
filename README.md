@@ -12,9 +12,9 @@
   喜歡遇到問題並頭痛的解決他！🔥
 </h2>
 
-<h2 align="center">
+<h3 align="center">
   技能組 📜
-</h2>
+</h3>
 
 
 <table align="center">
