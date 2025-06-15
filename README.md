@@ -17,12 +17,41 @@
 </h2>
 
 
-| 前端                   |        後端        |
-|----------|--------------------|--------------------|
-| React      | ⭐⭐⭐⭐ | NodeJS    | ⭐   |
-| TypeScript | ⭐⭐⭐   | ExpressJS | ⭐⭐ |
-| NextJS     | ⭐⭐      |          |        |
-| JavaScript | ⭐⭐⭐   |          |        |
-| Zustand    | ⭐⭐⭐   |         |         |
+<table>
+  <tr>
+    <th colspan="2">前端</th>
+    <th colspan="2">後端</th>
+  </tr>
+  <tr>
+    <th>技能</th>
+    <th>熟練度</th>
+    <th>技能</th>
+    <th>熟練度</th>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>Node.js</td>
+    <td>⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>⭐⭐⭐</td>
+    <td>Express</td>
+    <td>⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>CSS</td>
+    <td>⭐⭐⭐⭐</td>
+    <td>MongoDB</td>
+    <td>⭐⭐</td>
+  </tr>
+  <tr>
+    <td>Tailwind</td>
+    <td>⭐⭐⭐</td>
+    <td>Mongoose</td>
+    <td>⭐⭐⭐</td>
+  </tr>
+</table>
 
 
