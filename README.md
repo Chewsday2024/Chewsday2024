@@ -16,6 +16,8 @@
   技能組 📜
 </h2>
 
+<p><strong style="font-size: 1.5em;">我的技能表</strong></p>
+
 
 <table align="center">
   <tr>
