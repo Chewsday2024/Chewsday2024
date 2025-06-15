@@ -19,15 +19,10 @@
 
 <table align="center">
   <tr>
-    <th colspan="2">前端</th>
+    <th >前端</th>
     <th colspan="2">後端</th>
   </tr>
-  <tr>
-    <th>技能</th>
-    <th>熟練度</th>
-    <th>技能</th>
-    <th>熟練度</th>
-  </tr>
+  
   <tr>
     <td>HTML</td>
     <td>⭐⭐⭐⭐</td>
